@@ -1,0 +1,48 @@
+CELL 01
+Chuyển MP3 → WAV
+
+CELL 02
+Import thư viện
+
+CELL 03
+Đọc WAV + normalize
+
+A
+A1 - Metadata
+A2 - Stereo → Mono
+A3 - Lưu mono
+
+B
+B1 - Waveform
+B2 - Peak/RMS/Energy/Clipping
+B3 - Chọn 2 đoạn
+B4 - So sánh 2 đoạn
+
+C
+C1 - Chọn đoạn FFT
+C2 - FFT 2048/8192
+C3 - Tìm peak
+C4 - Vẽ peak
+
+D
+D1 - STFT 10/25/50 ms
+
+E
+E1 - Rectangular vs Hamming
+
+F
+F1 - Thiết kế FIR
+F2 - Frequency response
+F3 - Apply filter
+F4 - Export WAV
+F5 - So sánh phổ
+
+G
+G1 - Quantization
+G2 - Export quantization
+G3 - Vẽ quantization
+G4 - Resampling
+G5 - So sánh phổ
+G6 - Nghe thử
+G7 - Bitrate/file size/compression ratio
+G8 - Tổng hợp
