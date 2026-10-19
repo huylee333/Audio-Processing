@@ -1,0 +1,40 @@
+mở cửa
+đóng cửa
+mở đèn
+đóng rèm
+mở khóa
+đóng cổng
+lên tầng
+xuống tầng
+lên lầu
+xuống dốc
+lên xe
+xuống xe
+dừng lại
+dừng xe
+dừng phát
+hãy mở
+hãy đóng
+hãy dừng
+xin mở
+xin đóng
+bắt đầu lên
+bắt đầu xuống
+tạm dừng
+khẩn cấp dừng
+nhanh lên
+chạy xuống
+hệ thống mở
+hệ thống đóng
+yêu cầu dừng
+chuẩn bị lên
+chuẩn bị xuống
+mở máy
+đóng máy
+mở van
+đóng van
+lên số
+xuống số
+dừng hoạt động
+mở rộng
+đóng kín

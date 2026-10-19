@@ -1,0 +1,11 @@
+# Requirements for Speech Data Processing & Preparation (Lab 03)
+# Topic: Xử lý và Chuẩn bị Dữ liệu Âm thanh Tiếng nói
+# Sinh viên: Lê Trọng Huy - MSSV: 2351260658
+
+numpy>=1.24.0
+scipy>=1.10.0
+librosa>=0.10.0
+soundfile>=0.12.0
+gTTS>=2.4.0
+pydub>=0.25.0
+sounddevice>=0.4.6
